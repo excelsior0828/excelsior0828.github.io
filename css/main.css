@@ -109,9 +109,8 @@ img {margin-bottom: -6px;}
 	.w3-contact-margin{margin-top:-10px!important; margin-bottom:0px!important;}
 	.w3-contact-font{font-size:34px!important color:black!important;}
 	.w3-contact-font2{font-size:16px; color:black;}
-	.w3-contact-font3{font-size:19px; color:green;}
+  	.w3-contact-font3{font-size:18px; color:green; letter-spacing: 2px;}
 	.w3-contact-font4{font-size:13px; color:green; letter-spacing: 1px;}
-
 }
 @media (min-width: 360px){
 	/*navbar*/
