@@ -4,6 +4,7 @@ body, html {height: 100%}
 h1,h2,h3,h4,h5,h6 {
     letter-spacing: 5px;
 }
+hr{border:0; border-top: 3px solid #eee; margin:20px 0; box-sizing: content-box; height:0; overflow: visible;}
 .bgimg {
     background-image: url('../img/main/main.jpg');
     min-height: 100%;
@@ -40,7 +41,7 @@ img {margin-bottom: -6px;}
     border: none;
     display: inline-block;
     outline: 0;
-    padding: 8px 3px;
+    padding: 8px 3px 5px 3px;
     vertical-align: middle;
     overflow: hidden;
     text-decoration: none;
@@ -94,7 +95,6 @@ img {margin-bottom: -6px;}
 	.w3-jumbo{font-size:40px!important; letter-spacing: 2px!important}
 	.w3-border-grey{border-top: 2px solid #bbb!important;}
 	.w3-font-name{font-size: 13px!important}
-	hr{border:0; border-top: 3px solid #eee; margin:20px 0; box-sizing: content-box; height:0; overflow: visible;}
 	/*about*/
 	.w3-about-margin{margin-top:-20px!important; margin-bottom:20px!important;}
 	.w3-about-font{font-size:34px;}
@@ -120,7 +120,6 @@ img {margin-bottom: -6px;}
 	.w3-jumbo{font-size:46px!important; letter-spacing: 2px!important}
 	.w3-border-grey{border-top: 2px solid #bbb!important;}
 	.w3-font-name{font-size: 15px!important}
-	hr{border:0; border-top: 3px solid #eee; margin:20px 0; box-sizing: content-box; height:0; overflow: visible;}
 	/*about*/
 	.w3-about-font{font-size:38px;}
 	.w3-about-font2{font-size:15px;}
@@ -143,7 +142,6 @@ img {margin-bottom: -6px;}
 	.w3-jumbo{font-size:50px!important; letter-spacing: 2px!important}
 	.w3-border-grey{border-top: 2px solid #bbb!important;}
 	.w3-font-name{font-size: 16px!important}
-	hr{border:0; border-top: 3px solid #eee; margin:20px 0; box-sizing: content-box; height:0; overflow: visible;}
 	/*about*/
 	.w3-about-font{font-size:42px;}
 	.w3-about-font2{font-size:16px;}
@@ -170,7 +168,6 @@ img {margin-bottom: -6px;}
 	.w3-jumbo{font-size:70px!important; letter-spacing: 2px!important}
 	.w3-border-grey{border-top: 2px solid #bbb!important;}
 	.w3-font-name{font-size: 22px!important}
-	hr{border:0; border-top: 3px solid #eee; margin:20px 0; box-sizing: content-box; height:0; overflow: visible;}
 	/*about*/
 	.w3-about-margin{margin-top:150px!important;}
 	.w3-about-margin2{margin-top:0px!important;}
@@ -196,7 +193,6 @@ img {margin-bottom: -6px;}
 	.w3-jumbo{font-size:70px!important; letter-spacing: 2px!important}
 	.w3-border-grey{border-top: 2px solid #bbb!important;}
 	.w3-font-name{font-size: 22px!important}
-	hr{border:0; border-top: 3px solid #eee; margin:20px 0; box-sizing: content-box; height:0; overflow: visible;}
 	/*about*/
 	.w3-about-margin{margin-top:30px!important; margin-bottom:20px!important;}
 	.w3-about-margin2{margin-top:50px!important; margin-bottom:20px!important;}
@@ -228,7 +224,6 @@ img {margin-bottom: -6px;}
 	.w3-jumbo{font-size:70px!important; letter-spacing: 2px!important}
 	.w3-border-grey{border-top: 2px solid #bbb!important;}
 	.w3-font-name{font-size: 22px!important}
-	hr{border:0; border-top: 3px solid #eee; margin:20px 0; box-sizing: content-box; height:0; overflow: visible;}
 	/*about*/
 	.w3-about-margin{margin-top:10px!important; margin-bottom:20px!important;}
 	.w3-about-margin2{margin-top:50px!important; margin-bottom:20px!important;}
