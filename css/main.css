@@ -104,7 +104,7 @@ img {margin-bottom: -6px;}
 	.w3-main-margin{margin-top:-20px!important; margin-bottom:25px!important;}
 	.w3-main-font{font-size:34px;}
 	.w3-main{padding-top:50px; padding-bottom:50px;}
-	.w3-main-width{margin:24px!important}
+	.w3-main-width{margin:50px!important}
 	/*contact*/
 	.w3-contact-margin{margin-top:-10px!important; margin-bottom:0px!important;}
 	.w3-contact-font{font-size:34px!important color:black!important;}
@@ -127,7 +127,7 @@ img {margin-bottom: -6px;}
 	/*main*/
 	.w3-main-font{font-size:38px;margin-bottom:50px;}
 	.w3-main{padding-top:50px; padding-bottom:50px;}
-	.w3-main-width{margin:24px!important}
+	.w3-main-width{margin:55px!important}
 	/*contact*/
 	.w3-contact-font{font-size:38px;margin-bottom:50px;}
 	.w3-contact-font2{font-size:18px; color:black;}
@@ -149,7 +149,7 @@ img {margin-bottom: -6px;}
 	/*main*/
 	.w3-main-font{font-size:42px;margin-bottom:50px;}
 	.w3-main{padding-top:50px; padding-bottom:50px;}
-	.w3-main-width{margin:24px!important}
+	.w3-main-width{margin:60px!important}
 	/*contact*/
 	.w3-contact-font{font-size:42px;margin-bottom:50px;}
 	.w3-contact-font2{font-size:22px; color:black;}
@@ -157,8 +157,11 @@ img {margin-bottom: -6px;}
 	.w3-contact-font4{font-size:18px; color:green; letter-spacing: 1px;}
 }
 @media (max-width: 767px) and (min-width: 593px) {
-  .w3-about-margin{margin-top:220px!important;}
+	.w3-about-margin{margin-top:220px!important;}
 	.w3-about-margin3{margin-top:120px!important;}
+	  /*main*/
+	.w3-main-width{margin:60px!important}
+
 }
 @media (min-width: 768px){
 	/*navbar*/
@@ -178,7 +181,7 @@ img {margin-bottom: -6px;}
 	/*main*/
 	.w3-main-font{font-size:42px;margin-bottom:50px;}
 	.w3-main{padding-top:50px; padding-bottom:50px;}
-	.w3-main-width{margin:24px!important}
+	.w3-main-width{margin:80px!important}
 	/*contact*/
 	.w3-contact-font{font-size:42px;margin-bottom:50px;}
 	.w3-contact-font2{font-size:22px; color:black;}
